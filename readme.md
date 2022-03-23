@@ -13,6 +13,10 @@ If you install this application, you agree to the [terms of service](/tos.md).
 - Once you upload files using ACSPI to [anonfiles](https://anonfiles.com/), you can view all uploaded files within the app.
 - Check it out to see all the features
 
+# First run and basic information
+- ACSPInstaller is NOT an installer, that's just the name of the app (Assetto Corsa Server Pack Installer)
+- You can put ACSPI anywhere, in settings you can create a desktop shortcut
+- When first run you must set the assetto corsa folder, to do so, go to settings and click Set AC folder (you can try Auto Set if your AC is installed in the default steam location in C drive)
 # How to use
 ## How to create a pack
 1. Open ACSPI
