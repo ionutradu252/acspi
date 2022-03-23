@@ -17,6 +17,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 ![pid](https://user-images.githubusercontent.com/72668032/158903933-e9c8c978-3cb1-4f49-a39a-cf8d29abf995.png)
 
 
+
 # Contact
 - Join [telegram](https://t.me/acspidev)
-- Message me on xxxmarioxxx#1288
+- Message me on discord @ xxxmarioxxx#1288
