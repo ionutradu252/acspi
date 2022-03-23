@@ -57,3 +57,6 @@ Try [Free Download Manager](https://www.freedownloadmanager.org/) (not sponsored
 # Contact
 - Join [telegram](https://t.me/acspidev)
 - Message me on discord @ xxxmarioxxx#1288
+## Please submit any errors or suggestions on the telegram channel given above!
+
+# Thank you and you're welcome :P
