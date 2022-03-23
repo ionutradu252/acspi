@@ -16,5 +16,5 @@
   - Upload to [anonfiles](https://anonfiles.com/)
 
 # Services used
-- [anonfiles](https://anonfiles.com/)
+- [Anonfiles](https://anonfiles.com/)
 - ACSP database
