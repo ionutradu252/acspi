@@ -14,7 +14,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 - Check it out to see all the features
 
 # How to use
-### How to create a pack
+## How to create a pack
 1. Open ACSPI
 2. Click View Cars/Tracks/Content
 3. Search one or multiple cars
@@ -23,7 +23,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 6. Export (the app will freeze until the archive is created)
 7. If you want, you can open the pack file location
 
-### How to upload to ACSPI DB (Database)
+## How to upload to ACSPI DB (Database)
 1. Once you have created a pack, go to the main menu
 2. Click Pack Manager
 3. Load saved packs
@@ -31,8 +31,8 @@ If you install this application, you agree to the [terms of service](/tos.md).
 5. With the pack selected from 3, click upload
 6. The progress bar will show the upload progress
 7. Once finished, you can open the file link
-#### The files are uploaded to [anonfiles](https://anonfiles.com/).
-### How to get Pack ID
+### The files are uploaded to [anonfiles](https://anonfiles.com/).
+## How to get Pack ID
 ![pid](https://user-images.githubusercontent.com/72668032/158903933-e9c8c978-3cb1-4f49-a39a-cf8d29abf995.png)
 
 
