@@ -14,7 +14,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 - Check it out to see all the features
 
 # How to use
-## How to create a pack
+### How to create a pack
 1. Open ACSPI
 2. View Cars/Tracks/Content
 3. Search one or multiple cars, right click -> add to pack -> export
