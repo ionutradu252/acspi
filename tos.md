@@ -4,4 +4,12 @@
 
 - ACSPI does not produce any income and is free to use.
 - By running this application you give access to:
--- Your Assetto Corsa/Content folder
+  - Your Assetto Corsa/Content folder
+- ACSPI can:
+  - Create files/folders in C: (creates C:\ACSP to manage packs and settings)
+  - Execute command prompts in order to use [Microsoft Texconv](https://docs.microsoft.com/en-us/azure/remote-rendering/resources/tools/tex-conv) to convert textures (DDS-PNG)
+  - Create desktop shortcut of ACSP
+  - Open and read files which you select from the file dialogs (set custom plate)
+  - Open links in default browser
+  - Upload to ACSP database
+  - Upload to [anonfiles](anonfiles.com)
