@@ -45,6 +45,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 2. Then it opens a windows with the anonfiles link
 #### How to get Pack ID
 ![pid](https://user-images.githubusercontent.com/72668032/158903933-e9c8c978-3cb1-4f49-a39a-cf8d29abf995.png)
+- Packs are saved in C:\ACSP\archives\packs
 
 # Faster downloads with anonfiles
 I recommend using a download manager to download ACSPI Packs with higher speeds (>1MB/s)
