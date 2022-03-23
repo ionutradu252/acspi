@@ -1,5 +1,2 @@
 ACSPI - Assetto Corsa Server Pack Installer
-
-public source code not available yet
-
-[terms of service](/tos.md)
+If you install this applciation, you agree to the [terms of service](/tos.md)
