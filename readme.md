@@ -49,6 +49,8 @@ If you install this application, you agree to the [terms of service](/tos.md).
 # Faster downloads with anonfiles
 I recommend using a download manager to download ACSPI Packs with higher speeds (>1MB/s)
 
+Try [Free Download Manager](https://www.freedownloadmanager.org/) (not sponsored, this is what I use)
+
 
 
 # Contact
