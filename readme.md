@@ -32,8 +32,15 @@ If you install this application, you agree to the [terms of service](/tos.md).
 6. The progress bar will show the upload progress
 7. Once finished, you can open the file link
 ### The files are uploaded to [anonfiles](https://anonfiles.com/).
-## How to get Pack ID
+
+## How to download from ACSPI DB
+1. Open Pack Manager
+2. You can either pick one of the packs from the DB or download with Pack ID
+### How to download with Pack ID
+1. Click download then enter the Pack ID
+#### How to get Pack ID
 ![pid](https://user-images.githubusercontent.com/72668032/158903933-e9c8c978-3cb1-4f49-a39a-cf8d29abf995.png)
+2. Opens a windows with the anonfiles link
 
 
 
