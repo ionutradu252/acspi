@@ -2,8 +2,6 @@
 
 If you install this application, you agree to the [terms of service](/tos.md).
 
-
-
 # What can you do with ACSPI
 
 - Modify plates of installed AC (Assetto Corsa) vehicles. (install custom plates or reset to default)
@@ -16,7 +14,9 @@ If you install this application, you agree to the [terms of service](/tos.md).
 # First run and basic information
 - ACSPInstaller is NOT an installer, that's just the name of the app (Assetto Corsa Server Pack Installer)
 - You can put ACSPI anywhere, in settings you can create a desktop shortcut
-- When first run you must set the assetto corsa folder, to do so, go to settings and click Set AC folder (you can try Auto Set if your AC is installed in the default steam location in C drive)
+- When first run you must set the assetto corsa folder, to do so, go to settings and click Set AC folder or you can try Auto Set if your AC is installed in the default steam location in C drive
+- The first idea of the project was to make packs for servers for easier installation, but changed the idea to allow users to upload/download packs
+
 # How to use
 ## How to create a pack
 1. Open ACSPI
