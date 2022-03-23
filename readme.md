@@ -17,7 +17,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 ## How to create a pack
 - Open ACSPI
 - View Cars/Tracks/Content
-- Search one or multiple cars, right click --> add to pack --> export
+- Search one or multiple cars, right click -> add to pack -> export
 ### How to get Pack ID
 ![pid](https://user-images.githubusercontent.com/72668032/158903933-e9c8c978-3cb1-4f49-a39a-cf8d29abf995.png)
 
