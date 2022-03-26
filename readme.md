@@ -40,12 +40,23 @@ If you install this application, you agree to the [terms of service](/tos.md).
 ## How to download from ACSPI DB
 1. Open Pack Manager
 2. You can either pick one of the packs from the DB or download with Pack ID
+### How to download from listed packs
+1. Click Load Packs from DB
+2. Double click the pack that you want to download
 ### How to download with Pack ID
 1. Click download then enter the Pack ID
 2. Then it opens a windows with the anonfiles link
 #### How to get Pack ID
 ![pid](https://user-images.githubusercontent.com/72668032/158903933-e9c8c978-3cb1-4f49-a39a-cf8d29abf995.png)
 - Packs are saved in "C:\ACSP\archives\packs"
+
+## How to create a pack based on your server
+1. Open ACSPI and go to My Servers
+2. Select your server from the dropdown list
+3. Check whether you want to include cars and tracks
+4. Click Create a server pack
+5. Modify items if you want (Right Click - Remove)
+6. Click export
 
 # Faster downloads with anonfiles
 I recommend using a download manager to download ACSPI Packs with higher speeds (>1MB/s)
