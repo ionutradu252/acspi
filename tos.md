@@ -4,7 +4,7 @@
 
 - ACSPI does not produce any income and is free to use.
 - By running this application you give access to:
-  - Your Assetto Corsa/Content folder
+  - Your Assetto Corsa folder
 - ACSPI can:
   - Create files/folders in C: (creates C:\ACSP to manage packs and settings and has full control of it)
   - Execute command prompts in order to use [Microsoft Texconv](https://docs.microsoft.com/en-us/azure/remote-rendering/resources/tools/tex-conv) to convert textures (DDS-PNG)
