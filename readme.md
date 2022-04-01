@@ -18,6 +18,19 @@ If you install this application, you agree to the [terms of service](/tos.md).
 - The first idea of the project was to make packs for servers for easier installation, but changed the idea to allow users to upload/download packs
 
 # How to use
+
+## How to add Android Auto to vehicles
+1. Open Content Viewer
+2. Select wanted car
+3. Right click then click Add Android Auto tablet (BETA)
+4. Check if car has tablet, you should either see a MAYBE or a YES in order to add an Android tablet
+5. Click Add Android Tablet (not ready with version 0.74!)
+### What does NO, MAYBE, YES and ALREADY HAS mean?
+NO - You cannot ad a tablet beacause the car doesn't have one, or one isn't configured.
+MAYBE - The car has a navigation tablet but doesn't have all the parameters required. (ACSPI will use default parameters for those not set)
+YES - The car has a navigation tablet and all the parameters necessary for adding an Android tablet.
+ALREADY HAS - The car has an Android tablet.
+
 ## How to create a pack
 1. Open ACSPI
 2. Click View Cars/Tracks/Content
