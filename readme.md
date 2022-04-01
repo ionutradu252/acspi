@@ -19,11 +19,11 @@ If you install this application, you agree to the [terms of service](/tos.md).
 # How to use
 
 ## How to add Android Auto to vehicles
-1. Open Content Viewer
+1. Open `Content Viewer`
 2. Select wanted car
-3. Right click then click Add Android Auto tablet (BETA)
+3. Right click then click `Add Android Auto tablet (BETA)`
 4. Check if car has tablet, you should either see a MAYBE or a YES in order to add an Android tablet
-5. Click Add Android Tablet `not ready with version 0.74!`
+5. Click `Add Android Tablet` (not ready with version 0.74!)
 ### What does NO, MAYBE, YES and ALREADY HAS mean?
 NO - You cannot add a tablet beacause the car doesn't have one, or one isn't configured.
 
@@ -34,17 +34,17 @@ YES - The car has a navigation tablet and all the parameters necessary for addin
 ALREADY HAS - The car has an Android tablet.
 
 ## How to create a pack
-1. Open ACSPI
-2. Click View Cars/Tracks/Content
-3. Search one or multiple cars
-4. Right click
-5. Add to pack
+1. Open `View Cars/Tracks/Content`
+2. Search one or multiple cars
+3. Right click
+4. Add to pack
+5. If you change you mind you can right click then remove cars from the pack
 6. Export `the app will freeze until the archive is created`
 7. If you want, you can open the pack file location
 
 ## How to upload to ACSPI DB (Database)
 1. Once you have created a pack, go to the main menu
-2. Click Pack Manager
+2. Open `Pack Manager`
 3. Load saved packs
 4. If you want to check the pack contents, right click the pack and select open
 5. With the pack selected from 3, click upload
@@ -53,7 +53,7 @@ ALREADY HAS - The car has an Android tablet.
 ### The files are uploaded to [anonfiles](https://anonfiles.com/).
 
 ## How to download from ACSPI DB
-1. Open Pack Manager
+1. Open `Pack Manager`
 2. You can either pick one of the packs from the DB or download with Pack ID
 ### How to download from listed packs
 1. Click Load Packs from DB
@@ -66,7 +66,7 @@ ALREADY HAS - The car has an Android tablet.
 - Packs are saved in `"C:\ACSP\archives\packs"`
 
 ## How to create a pack based on your server
-1. Open ACSPI and go to My Servers
+1. Open ACSPI and go to `My Servers`
 2. Select your server from the dropdown list
 3. Check whether you want to include cars and tracks
 4. Click Create a server pack
