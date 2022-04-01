@@ -5,14 +5,14 @@ If you install this application, you agree to the [terms of service](/tos.md).
 
 # What can you do with ACSPI
 
-- Modify plates of installed AC (Assetto Corsa) vehicles. (install custom plates or reset to default)
+- Modify plates of installed AC (Assetto Corsa) vehicles. `install custom plates or reset to default`
 - Select one or more cars/tracks and export as .zip file which you can export directly from ACSPI or upload it on your own
-- Manage cars/tracks. (delete, install from packs)
+- Manage cars/tracks. `delete, install from packs`
 - Once you upload files using ACSPI to [anonfiles](https://anonfiles.com/), you can view all uploaded files within the app.
 - Check it out to see all the features
 
 # First run and basic information
-- ACSPInstaller is NOT an installer, that's just the name of the app (Assetto Corsa Server Pack Installer)
+- ACSPInstaller is NOT an installer, that's just the name of the app `Assetto Corsa Server Pack Installer`
 - You can put ACSPI anywhere, in settings you can create a desktop shortcut
 - When first run you must set the assetto corsa folder, to do so, go to settings and click Set AC folder or you can try Auto Set if your AC is installed in the default steam location in C drive
 - The first idea of the project was to make packs for servers for easier installation, but changed the idea to allow users to upload/download packs
@@ -24,11 +24,14 @@ If you install this application, you agree to the [terms of service](/tos.md).
 2. Select wanted car
 3. Right click then click Add Android Auto tablet (BETA)
 4. Check if car has tablet, you should either see a MAYBE or a YES in order to add an Android tablet
-5. Click Add Android Tablet (not ready with version 0.74!)
+5. Click Add Android Tablet `not ready with version 0.74!`
 ### What does NO, MAYBE, YES and ALREADY HAS mean?
 NO - You cannot ad a tablet beacause the car doesn't have one, or one isn't configured.
-MAYBE - The car has a navigation tablet but doesn't have all the parameters required. (ACSPI will use default parameters for those not set)
+
+MAYBE - The car has a navigation tablet but doesn't have all the parameters required. `ACSPI will use default parameters for those not set`
+
 YES - The car has a navigation tablet and all the parameters necessary for adding an Android tablet.
+
 ALREADY HAS - The car has an Android tablet.
 
 ## How to create a pack
@@ -37,7 +40,7 @@ ALREADY HAS - The car has an Android tablet.
 3. Search one or multiple cars
 4. Right click
 5. Add to pack
-6. Export (the app will freeze until the archive is created)
+6. Export `the app will freeze until the archive is created`
 7. If you want, you can open the pack file location
 
 ## How to upload to ACSPI DB (Database)
@@ -61,14 +64,14 @@ ALREADY HAS - The car has an Android tablet.
 2. Then it opens a windows with the anonfiles link
 #### How to get Pack ID
 ![pid](https://user-images.githubusercontent.com/72668032/158903933-e9c8c978-3cb1-4f49-a39a-cf8d29abf995.png)
-- Packs are saved in "C:\ACSP\archives\packs"
+- Packs are saved in `"C:\ACSP\archives\packs"`
 
 ## How to create a pack based on your server
 1. Open ACSPI and go to My Servers
 2. Select your server from the dropdown list
 3. Check whether you want to include cars and tracks
 4. Click Create a server pack
-5. Modify items if you want (Right Click - Remove)
+5. Modify items if you want `Right Click - Remove`
 6. Click export
 
 # Faster downloads with anonfiles
@@ -83,7 +86,7 @@ Try [Free Download Manager](https://www.freedownloadmanager.org/) (not sponsored
 
 # Contact
 - Join [telegram](https://t.me/acspidev)
-- Message me on discord @ xxxmarioxxx#1288
+- Message me on discord @ `xxxmarioxxx#1288`
 ## Please submit any errors or suggestions on the telegram channel given above!
 
 # Thank you and you're welcome :P
