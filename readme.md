@@ -25,9 +25,9 @@ If you install this application, you agree to the [terms of service](/tos.md).
 4. Check if car has tablet, you should either see a MAYBE or a YES in order to add an Android tablet
 5. Click Add Android Tablet `not ready with version 0.74!`
 ### What does NO, MAYBE, YES and ALREADY HAS mean?
-NO - You cannot ad a tablet beacause the car doesn't have one, or one isn't configured.
+NO - You cannot add a tablet beacause the car doesn't have one, or one isn't configured.
 
-MAYBE - The car has a navigation tablet but doesn't have all the parameters required. `ACSPI will use default parameters for those not set`
+MAYBE - The car has a navigation tablet but doesn't have all the parameters required. `ACSPI will use default parameters for those not found`
 
 YES - The car has a navigation tablet and all the parameters necessary for adding an Android tablet.
 
