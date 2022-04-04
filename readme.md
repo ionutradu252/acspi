@@ -5,6 +5,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 
 # What can you do with ACSPI
 
+- Add Android Auto to cars with navigation tablets. `premium only`
 - Modify plates of installed AC (Assetto Corsa) vehicles. `install custom plates or reset to default`
 - Select one or more cars/tracks and export as .zip file which you can export directly from ACSPI or upload it on your own
 - Manage cars/tracks. `delete, install from packs`
@@ -18,12 +19,22 @@ If you install this application, you agree to the [terms of service](/tos.md).
 
 # How to use
 
+## How to activate ACSPI
+1. Get a key either from buying one or catching one on the [telegram](https://t.me/acspidev) channel.
+2. Open ACSPI, go to settings and `Activate ACSPI`.
+
+### How to buy a key
+1. Send any amount greater than 1$ to my [PayPal](https://paypal.me/lionromania).
+2. Send me a screenshot on discord `snaipdefix#1288` with the proof.
+3. I will send you a key.
+4. Keys only work on one PC!
+
 ## How to add Android Auto to vehicles
 1. Open `Content Viewer`
 2. Select wanted car
 3. Right click then click `Add Android Auto tablet (BETA)`
 4. Check if car has tablet, you should either see a MAYBE or a YES in order to add an Android tablet
-5. Click `Add Android Tablet` (not ready with version 0.74!)
+5. Click `Add Android Tablet` (only premium)
 ### What does NO, MAYBE, YES and ALREADY HAS mean?
 NO - You cannot add a tablet beacause the car doesn't have one, or one isn't configured.
 
