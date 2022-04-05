@@ -29,7 +29,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 3. I will send you a key.
 4. Keys only work on one PC!
 
-## How to add Android Auto to vehicles
+## How to add Android Auto to vehicles `premium only`
 ### Using Content Viewer
 1. Open `Content Viewer`
 2. Select wanted car
