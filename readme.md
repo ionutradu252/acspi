@@ -30,17 +30,24 @@ If you install this application, you agree to the [terms of service](/tos.md).
 4. Keys only work on one PC!
 
 ## How to add Android Auto to vehicles
+### Using Content Viewer
 1. Open `Content Viewer`
 2. Select wanted car
 3. Right click then click `Add Android Auto tablet (BETA)`
 4. Check if car has tablet, you should either see a MAYBE or a YES in order to add an Android tablet
 5. Click `Add Android Tablet` (only premium)
+
+### Using Android Auto tab
+1. Open `Android Auto` and wait for it to load
+2. Select a car that supports Android Auto `yes / maybe`
+3. Double-click the car
+4. Add `Android Auto Tablet` (only premium)
 ### What does NO, MAYBE, YES and ALREADY HAS mean?
 NO - You cannot add a tablet beacause the car doesn't have one, or one isn't configured.
 
 MAYBE - The car has a navigation tablet but doesn't have all the parameters required. `ACSPI will use default parameters for those not found`
 
-YES - The car has a navigation tablet and all the parameters necessary for adding an Android tablet.
+YES - The car has a navigation tablet and all the parameters necessary for adding an Android tablet. `still might not work on all cars`
 
 ALREADY HAS - The car has an Android tablet.
 
