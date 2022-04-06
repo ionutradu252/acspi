@@ -17,6 +17,11 @@ If you install this application, you agree to the [terms of service](/tos.md).
 - You can put ACSPI anywhere, in settings you can create a desktop shortcut
 - When first run you must set the assetto corsa folder, to do so, go to settings and click Set AC folder or you can try Auto Set if your AC is installed in the default steam location in C drive
 
+## How to update `(>=0.77)`
+1. Open ACSPI and go to `Check for Updates`
+2. Wait for ACSPI to find server version, if it is newer a download button will appear.
+3. Click the download button and wait for ACSPI to auto-update.
+
 # How to use
 
 ## How to activate ACSPI
