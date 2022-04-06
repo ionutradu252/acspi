@@ -3,7 +3,7 @@
 
 If you install this application, you agree to the [terms of service](/tos.md).
 
-# What can you do with ACSPI `latest version features`
+# What can you do with ACSPI `(latest version)`
 
 - Add Android Auto to cars with navigation tablets. `premium only`
 - Modify plates of installed AC (Assetto Corsa) vehicles. `install custom plates or reset to default`
