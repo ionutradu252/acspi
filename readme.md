@@ -5,7 +5,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 
 # What can you do with ACSPI `(latest version)`
 
-- Add Android Auto to cars with navigation tablets. `premium only`
+- Add Android Auto to cars with navigation tablets.
 - Modify plates of installed AC (Assetto Corsa) vehicles. `install custom plates or reset to default`
 - Select one or more cars/tracks and export as .zip file which you can export directly from ACSPI or upload it on your own
 - Manage cars/tracks. `delete, install from packs`
@@ -34,7 +34,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 3. I will send you a key.
 4. Keys only work on one PC!
 
-## How to add Android Auto to vehicles `premium only`
+## How to add Android Auto to vehicles
 ### Using Content Viewer
 1. Open `Content Viewer`
 2. Select wanted car
