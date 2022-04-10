@@ -1,5 +1,10 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.78
+## new features
+- ANDROID AUTO is now free to use (`no premium required`)
+- improvements in plate changer
+
 # 0.77
 ## new features
 - added auto updater `new releases won't be uploaded on github anymore, only the changelog! acspi will update automatically after you check for updates`
