@@ -1,5 +1,10 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.79
+## fixes
+- fixed weird label text bug
+- updater "should" work now, further testing required
+
 # 0.78
 ## new features
 - ANDROID AUTO is now free to use (`no premium required`)
