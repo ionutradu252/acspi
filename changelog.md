@@ -1,5 +1,10 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.81
+## new features
+- added option to disable updates on start
+- added statistics to show how many people have used ACSP
+
 # 0.80
 ## fixes
 - fixed android auto bug when car is not compatible
