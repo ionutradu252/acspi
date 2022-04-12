@@ -11,6 +11,7 @@
   - Create desktop shortcut of ACSP
   - Open and read files which you select from the file dialogs (set custom plate)
   - Open links in default browser
+  - Read your PC name
   - Write to ACSP database
   - Read from ACSP database
   - Upload to [anonfiles](https://anonfiles.com/)
