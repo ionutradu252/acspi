@@ -12,6 +12,7 @@
   - Open and read files which you select from the file dialogs (set custom plate)
   - Open links in default browser
   - Read your PC name
+    - ACSPI will report your name and your application version for statistics `on each startup`
   - Write to ACSP database
   - Read from ACSP database
   - Upload to [anonfiles](https://anonfiles.com/)
