@@ -1,5 +1,10 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.80
+## fixes
+- fixed android auto bug when car is not compatible
+- other fixes
+
 # 0.79
 ## fixes
 - fixed weird label text bug
