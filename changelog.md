@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.82
+## fixes
+- fixed critical dlc issue (`DLC unlocker should work perfectly now`)
+
 # 0.81
 ## new features
 - added option to disable updates on start
