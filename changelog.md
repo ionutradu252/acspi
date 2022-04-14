@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.86
+## new features
+- changed interface in content browser and added pictures
+
 # 0.85
 ## fixes
 - acspi will be disabled until is activated `premium users`
