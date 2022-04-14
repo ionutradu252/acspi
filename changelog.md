@@ -1,5 +1,10 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.85
+## fixes
+- acspi will be disabled until is activated `premium users`
+- fixes for online content browser
+
 # 0.84
 ## new features
 - added feature to get mods or to contribute with mods for everyone to download/use
