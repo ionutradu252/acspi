@@ -9,6 +9,7 @@ If you install this application, you agree to the [terms of service](/tos.md).
 - Modify plates of installed AC (Assetto Corsa) vehicles. `install custom plates or reset to default`
 - Select one or more cars/tracks and export as .zip file which you can export directly from ACSPI or upload it on your own
 - Manage cars/tracks. `delete, install from packs`
+- Download cars/tracks from user-made database.
 - Once you upload files using ACSPI to [anonfiles](https://anonfiles.com/), you can view all uploaded files within the app.
 - Check it out to see all the features
 
@@ -34,6 +35,10 @@ If you install this application, you agree to the [terms of service](/tos.md).
 2. Send me a screenshot on discord `snaipdefix#1288` with the proof.
 3. I will send you a key.
 4. Keys only work on one PC!
+
+## How to become a creator
+- When you become a creator you automatically get the premium version of ACSPI. Creators can upload cars/tracks to the ACSPI mods database.
+- To become a creator message me on discord @ `snaipdefix@1288`
 
 ## How to add Android Auto to vehicles
 ### Using Content Viewer
@@ -88,6 +93,10 @@ ALREADY HAS - The car has an Android tablet.
 #### How to get Pack ID
 ![pid](https://user-images.githubusercontent.com/72668032/158903933-e9c8c978-3cb1-4f49-a39a-cf8d29abf995.png)
 - Packs are saved in `"C:\ACSP\archives\packs"`
+
+## How to download from creator-made ACSPI DB
+1. Open ACSPI and go to Get Mods
+2. Wait for it to load then search the mod you want and `double-click` your desired mod.
 
 ## How to create a pack based on your server
 1. Open ACSPI and go to `My Servers`
