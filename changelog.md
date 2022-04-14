@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.84
+## new features
+- added feature to get mods or to contribute with mods for everyone to download/use
+
 # 0.83
 ## fixes
 - fixed BackgroundWorker errors and other fixes
