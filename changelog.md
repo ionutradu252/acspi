@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.88
+## fixes
+- fixed critical plate changer issue
+
 # 0.87
 ## new features
 - creators can now upload images directly using IMGUR
