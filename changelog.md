@@ -5,6 +5,7 @@
 - creators can now upload images directly using IMGUR
 ## fixes
 - fixed tooltips
+- other fixes
 
 # 0.86
 ## new features
