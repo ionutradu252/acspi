@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.89
+## fixes
+- fixed android auto errors
+
 # 0.88
 ## fixes
 - fixed critical plate changer issue
