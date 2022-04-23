@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.90
+## fixes
+-Fixed `Could not create SSL/TLS secure channel` on pc's with .NET < 4.5.
+
 # 0.89
 ## fixes
 - fixed android auto errors
