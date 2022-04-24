@@ -1,7 +1,7 @@
 # ACSPI - Assetto Corsa Server Pack Installer
 ## Download [here](https://github.com/ionutradu252/acspi/releases)
 
-If you install this application, you agree to the [terms of service](/tos.md).
+By installing this application, you agree to the [terms of service](/tos.md).
 
 # What can you do with ACSPI `(latest version)`
 
