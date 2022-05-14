@@ -2,13 +2,13 @@
 
 # 0.91
 ## new features
--Added events tab, where you can respond to random question about ACSPI
+- Added events tab, where you can respond to random question about ACSPI
 ## fixes
--Fixed messagebox appears randomly
+- Fixed messagebox appears randomly
 
 # 0.90
 ## fixes
--Fixed `Could not create SSL/TLS secure channel` on pc's with .NET < 4.5.
+- Fixed `Could not create SSL/TLS secure channel` on pc's with .NET < 4.5.
 
 # 0.89
 ## fixes
