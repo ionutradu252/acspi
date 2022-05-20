@@ -2,7 +2,7 @@
 
 # 0.93
 ## new features
-- added first time setup and Romanian language
+- added first time setup and Romanian language (further translation expected)
 
 # 0.92
 ## fixes
