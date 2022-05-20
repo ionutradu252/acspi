@@ -14,7 +14,7 @@ By installing this application, you agree to the [terms of service](/tos.md).
 - Check it out to see all the features
 
 # First run and basic information
-- ACSPInstaller is NOT an installer, that's just the name of the app `Assetto Corsa Server Pack Installer`
+- ACSPInstaller is NOT an installer, that's just the name of the app `Assetto Corsa Server Pack Installer, but it will copy itself to the ACSP folder`
 - ACSP installer will copy itself and future updates in `C:\ACSP`
 - You can put ACSPI anywhere, in settings you can create a desktop shortcut
 - When first run you must set the assetto corsa folder, to do so, go to settings and click Set AC folder or you can try Auto Set if your AC is installed in the default steam location in C drive
