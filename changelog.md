@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.92
+## fixes
+- fixed ACSPI freeze on start if user doesn't have premium
+
 # 0.91
 ## new features
 - Added events tab, where you can respond to random question about ACSPI
