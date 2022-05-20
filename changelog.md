@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.93
+## new features
+- added first time setup and Romanian language
+
 # 0.92
 ## fixes
 - fixed ACSPI freeze on start if user doesn't have premium
