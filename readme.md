@@ -3,6 +3,8 @@
 
 By installing this application, you agree to the [terms of service](/tos.md).
 
+This application requires [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+
 # What can you do with ACSPI `(latest version)`
 
 - Add Android Auto to cars with navigation tablets.
