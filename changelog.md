@@ -1,5 +1,12 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.94
+## new features
+- reworked settings tab
+- other improvements
+
+### The ACSPI DB is down at the moment of this release.
+
 # 0.93
 ## new features
 - added first time setup and Romanian language (further translation expected)
