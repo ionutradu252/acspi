@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.95
+## fixes
+- fixed 0.94 wouldn't start
+
 # 0.94
 ## new features
 - reworked settings tab
