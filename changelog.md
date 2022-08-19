@@ -1,5 +1,13 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.96
+## fixes
+- fixed plate changer issues
+- fixed connection issues
+
+## new features
+- add a plate to a car that has no changeable material
+
 # 0.95 hotfix
 ## fixes
 - fixed 0.94 wouldn't start
