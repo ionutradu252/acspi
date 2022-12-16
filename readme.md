@@ -1,9 +1,11 @@
 # ACSPI - Assetto Corsa Server Pack Installer
+![image](https://user-images.githubusercontent.com/72668032/208171341-327b735e-06ba-49e7-83bd-4497820184df.png)
 ## Download [here](https://github.com/ionutradu252/acspi/releases)
 
 By installing this application, you agree to the [terms of service](/tos.md).
 
 This application requires [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+
 
 # What can you do with ACSPI `(latest version)`
 
