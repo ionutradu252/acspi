@@ -4,6 +4,7 @@
 ## new features
 - added car cleaner under settings (very effective to clean old and badly made cars, i've freed 20gb from 2000+ mods)
 ## fixes
+- changed framework from 4.7.2 to 4.8
 - other fixes
 
 # 0.96
