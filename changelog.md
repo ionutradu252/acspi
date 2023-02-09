@@ -2,7 +2,7 @@
 
 # 0.97
 ## new features
-- added car cleaner (very effective to clean old and badly made cars, i've freed 20gb from 2000+ mods)
+- added car cleaner under settings (very effective to clean old and badly made cars, i've freed 20gb from 2000+ mods)
 ## fixes
 - other fixes
 
