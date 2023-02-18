@@ -1,5 +1,9 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.98
+## new features
+- new car plate changer with templates/presets
+
 # 0.97
 ## new features
 - added car cleaner under settings (very effective to clean old and badly made cars, i've freed 20gb from 2000+ mods)
