@@ -14,7 +14,7 @@ This application requires [Visual C++ Redistributable](https://aka.ms/vs/17/rele
 - Select one or more cars/tracks and export as .zip file which you can export directly from ACSPI or upload it on your own
 - Manage cars/tracks. `delete, install from packs`
 - Download cars/tracks from user-made database.
-- Once you upload files using ACSPI to [anonfiles](https://anonfiles.com/), you can view all uploaded files within the app.
+- `[OBSOLETE]` Once you upload files using ACSPI to [anonfiles](https://anonfiles.com/), you can view all uploaded files within the app.
 - Check it out to see all the features
 
 # First run and basic information
@@ -75,7 +75,7 @@ ALREADY HAS - The car has an Android tablet.
 6. Export `the app will freeze until the archive is created`
 7. If you want, you can open the pack file location
 
-## How to upload to ACSPI DB (Database)
+## `[OBSOLETE]` How to upload to ACSPI DB (Database)
 1. Once you have created a pack, go to the main menu
 2. Open `Pack Manager`
 3. Load saved packs
@@ -85,7 +85,7 @@ ALREADY HAS - The car has an Android tablet.
 7. Once finished, you can open the file link
 ### The files are uploaded to [anonfiles](https://anonfiles.com/).
 
-## How to download from ACSPI DB
+## `[OBSOLETE]` How to download from ACSPI DB
 1. Open `Pack Manager`
 2. You can either pick one of the packs from the DB or download with Pack ID
 ### How to download from listed packs
@@ -110,7 +110,7 @@ ALREADY HAS - The car has an Android tablet.
 5. Modify items if you want `Right Click - Remove`
 6. Click export
 
-# Faster downloads with anonfiles
+# Faster downloads with anonfiles `RIP anonfiles`
 I recommend using a download manager to download ACSPI Packs with higher speeds (>1MB/s)
 
 ## Why anonfiles?
@@ -122,7 +122,7 @@ Try [Free Download Manager](https://www.freedownloadmanager.org/) (not sponsored
 
 # Contact
 - Join [telegram](https://t.me/acspidev)
-- Message me on discord @ `xxxmarioxxx#1288`
+- Message me on discord @ `snaipdefix#1288`
 ## Please submit any errors or suggestions on the telegram channel given above!
 
 # Thank you and you're welcome :P
