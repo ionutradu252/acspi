@@ -1,5 +1,13 @@
 # ACSPI - Assetto Corsa Server Pack Installer Changelog
 
+# 0.99
+## fixes
+- fixed crash on startup caused by invalid language setting
+- fixed update checker incorrectly detecting already up-to-date versions
+- fixed activation key validation querying wrong row count
+- fixed resource and stream leaks (database readers, file streams, web clients)
+- improved self-update: new version now replaces the exe automatically on restart
+
 # 0.98
 ## new features
 - new car plate changer with templates/presets
